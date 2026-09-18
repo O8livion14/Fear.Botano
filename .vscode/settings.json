@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Fear.Botano.slnx"
+    "dotnet.defaultSolution": "ThirdPersonTemplate.slnx"
 }
